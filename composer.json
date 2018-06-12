@@ -1,0 +1,14 @@
+{
+    "name": "dmitry/techcat-mysqli",
+    "require": {
+        "joshcam/mysqli-database-class": "^2.9",
+        "monolog/monolog": "^1.23",
+        "hassankhan/config": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "barantaran",
+            "email": "yourchev@gmail.com"
+        }
+    ]
+}
